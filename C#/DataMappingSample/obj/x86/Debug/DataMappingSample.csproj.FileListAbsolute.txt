@@ -1,0 +1,19 @@
+c:\users\matti.jantti\documents\visual studio 2010\Projects\DataMappingSample\DataMappingSample\bin\Debug\DataMappingSample.exe
+c:\users\matti.jantti\documents\visual studio 2010\Projects\DataMappingSample\DataMappingSample\bin\Debug\DataMappingSample.pdb
+c:\users\matti.jantti\documents\visual studio 2010\Projects\DataMappingSample\DataMappingSample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\matti.jantti\documents\visual studio 2010\Projects\DataMappingSample\DataMappingSample\obj\x86\Debug\DataMappingSample.exe
+c:\users\matti.jantti\documents\visual studio 2010\Projects\DataMappingSample\DataMappingSample\obj\x86\Debug\DataMappingSample.pdb
+C:\Users\matti.jantti\Documents\Visual Studio 2010\Projects\DataMappingSample\DataMappingSample\bin\Debug\MasaSam.Data.Mapping.dll
+C:\Users\matti.jantti\Documents\Visual Studio 2010\Projects\DataMappingSample\DataMappingSample\bin\Debug\MasaSam.Data.Mapping.pdb
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\obj\x86\Debug\DataMappingSample.exe
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\obj\x86\Debug\DataMappingSample.pdb
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\DataMappingSample.exe.config
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\DataMappingSample.exe
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\DataMappingSample.pdb
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\EntityFramework.dll
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\MasaSam.Data.Mapping.dll
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\MasaSam.Data.Mapping.pdb
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\EntityFramework.xml
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mcman\Documents\DataMapper\C#\DataMappingSample\obj\x86\Debug\DataMappingSample.csprojResolveAssemblyReference.cache
